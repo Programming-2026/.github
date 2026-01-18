@@ -27,7 +27,7 @@ Divisi ini membahas berbagai materi inti, antara lain:
 - Membangun dasar logika dan algoritma yang kuat
 - Melatih pola pikir komputasional dan sistematis
 - Mempersiapkan anggota untuk:
-  - Proyek pengembangan software
+  - Proyek OOP
   - Competitive programming
   - Mata kuliah lanjutan
   - Kebutuhan dunia industri teknologi
